@@ -4,14 +4,19 @@
 [The Complete Web Developer in 2024: Zero to Mastery](https://zerotomastery.io/courses/coding-bootcamp/)
 
 在閒暇之餘也在看計算機概論，有一個系列的英片非常的淺顯易懂，也是友人推薦的，有中英字幕。
-[【计算机科学速成课】40集全/精校 - Crash Course Computer Science-哔哩哔哩](https://b23.tv/NP9bEvb)
+[【計算機科學速成課】40集全/精校 - Crash Course Computer Science-嗶哩嗶哩](https://b23.tv/NP9bEvb)
 
 ## 願景
-等到學完前端後，希望今年底到明年初，能找到前端工程師的工作。
+希望今年能找到前端工程師的工作。
 
 ## 開發經驗
 
-- 馥森淨饍食養（原 馥森里山）官網。 [官網連結](https://www.volandosatoyama.com/) 。對我來說，這是第一次建立這麼大型的網頁，從剛開始20頁，到目前應該有100多頁(含英文頁面)。從當初想法是走純手刻，練習CSS技術，有用SASS輔助（主要用它來組織檔案還有層層嵌套的語法，沒有學到更深的用法🤣），然後現在發現很難管理CSS，目前新增的頁面用bootstrap輔助，確實感到速度加快，但還在苦惱之前的可能要改寫要花很多時間，等有時間再練習優化。我還開發了後台系統，目的是上文章和上傳圖片，不然在初期時每個頁面都手刻會花很多時間累死人🤣，雖然開發經驗不久，程式碼也醜醜的，但我深知如果不快點開發出來，累的人也都是我，要繼續負責從原始碼加入文章。我參考我學過的教學影片，也瘋狂問ChatGPT，再自行調整代碼，不斷的調整，終於「拼出」後台來，我現在都稱它為「拼裝車」🤣，因為代碼醜醜的。目前先求有再求好，待我更加精進完JavaScript後，再來修改吧🙂。
+### 馥森淨饍食養（原 馥森里山）官網。 [官網連結](https://www.volandosatoyama.com/) 
 
-## 學習經驗
-待補充呦～～
+#### 使用技術
+- html
+- css (suss/bootstrap)
+- express
+- ejs
+- mongodb
+
