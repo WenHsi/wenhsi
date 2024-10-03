@@ -7,7 +7,7 @@
 [【計算機科學速成課】40集全/精校 - Crash Course Computer Science-嗶哩嗶哩](https://b23.tv/NP9bEvb)
 
 ## 願景
-希望今年能找到前端工程師的工作。
+剛進新公司，把 Angular 學好！
 
 ## 開發經驗
 
