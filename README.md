@@ -7,4 +7,4 @@
 
 - [C 語言入門課程](https://www.youtube.com/playlist?list=PLY_qIufNHc293YnIjVeEwNDuqGo8y2Emx)
 - [The Complete Web Developer: Zero to Mastery](https://zerotomastery.io/courses/coding-bootcamp/) — ZTM
-- [計算機科學速成課 40集全](https://b23.tv/NP9bEvb) — Crash Course Computer Science
+- [計算機科學速成課 40集全](https://www.bilibili.com/video/BV1EW411u7th/) — Crash Course Computer Science
